@@ -1,5 +1,25 @@
+## Horizon
+#### A Full-Stack Banking Web Application
+
+## Technologies Used
+* _Typescript_
+* _ShadCN_
+* _Tailwind_
+_Next.js_
+* _NodeJS_
+
+## Description
+_Horizon is a banking web application built for anyone. The idea is to replicate a Banking Web Application where anyone can sign up and perform regular banking operations_
+
+## Known Bugs
+* _No Known Bugs, as at the latest push._
+
+## Contact
+_Twitter (X.com): @EmmanuelMojiboy_
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Below are More Details About the Project:
 ## Getting Started
 
 First, run the development server:
