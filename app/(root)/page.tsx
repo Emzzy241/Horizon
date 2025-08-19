@@ -7,8 +7,8 @@ const Home = () => {
     const loggedIn = { firstName: 'Dynasty' };
 
     return (
-        <section className="home">
-            <div className="home-content">
+        <section className="flex w-full flex-row max-xl:max-h-screen max-xl:overflow-y-scroll">
+            <div className="flex w-full flex-1 flex-col gap-8 px-5 sm:px-8 py-7 lg:py-12 xl:max-h-screen xl:overflow-y-sc">
                 <header className="home-header text-base">
                     <HeaderBox
                         type="greeting"
